@@ -2,7 +2,7 @@ arr = [1, 2, 8, 3, 2, 2, 2, 5, 1]
 # Array fr will store frequencies of element
 fr = [None] * len(arr)
 visited = -1
-
+# hello
 for i in range(0, len(arr)):
     count = 1
     for j in range(i+1, len(arr)):
